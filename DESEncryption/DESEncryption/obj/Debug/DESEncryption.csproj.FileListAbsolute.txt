@@ -1,0 +1,9 @@
+D:\ASIA PACIFIC UNIVERSITY\DESEncryption\DESEncryption\bin\Debug\DESEncryption.exe.config
+D:\ASIA PACIFIC UNIVERSITY\DESEncryption\DESEncryption\bin\Debug\DESEncryption.exe
+D:\ASIA PACIFIC UNIVERSITY\DESEncryption\DESEncryption\bin\Debug\DESEncryption.pdb
+D:\ASIA PACIFIC UNIVERSITY\DESEncryption\DESEncryption\obj\Debug\DESEncryption.csprojResolveAssemblyReference.cache
+D:\ASIA PACIFIC UNIVERSITY\DESEncryption\DESEncryption\obj\Debug\DESEncryption.Form1.resources
+D:\ASIA PACIFIC UNIVERSITY\DESEncryption\DESEncryption\obj\Debug\DESEncryption.Properties.Resources.resources
+D:\ASIA PACIFIC UNIVERSITY\DESEncryption\DESEncryption\obj\Debug\DESEncryption.csproj.GenerateResource.Cache
+D:\ASIA PACIFIC UNIVERSITY\DESEncryption\DESEncryption\obj\Debug\DESEncryption.exe
+D:\ASIA PACIFIC UNIVERSITY\DESEncryption\DESEncryption\obj\Debug\DESEncryption.pdb

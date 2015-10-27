@@ -1,0 +1,15 @@
+D:\ASIA PACIFIC UNIVERSITY\Computer System Security\CSS_Assignment_SGMS\CSS_Assignment_SGMS\bin\Debug\CSS_Assignment_SGMS.exe.config
+D:\ASIA PACIFIC UNIVERSITY\Computer System Security\CSS_Assignment_SGMS\CSS_Assignment_SGMS\bin\Debug\CSS_Assignment_SGMS.exe
+D:\ASIA PACIFIC UNIVERSITY\Computer System Security\CSS_Assignment_SGMS\CSS_Assignment_SGMS\bin\Debug\CSS_Assignment_SGMS.pdb
+D:\ASIA PACIFIC UNIVERSITY\Computer System Security\CSS_Assignment_SGMS\CSS_Assignment_SGMS\bin\Debug\CSS_Assignment_SGMS.xml
+D:\ASIA PACIFIC UNIVERSITY\Computer System Security\CSS_Assignment_SGMS\CSS_Assignment_SGMS\obj\Debug\CSS_Assignment_SGMS.ForgotPassword.resources
+D:\ASIA PACIFIC UNIVERSITY\Computer System Security\CSS_Assignment_SGMS\CSS_Assignment_SGMS\obj\Debug\CSS_Assignment_SGMS.Login.resources
+D:\ASIA PACIFIC UNIVERSITY\Computer System Security\CSS_Assignment_SGMS\CSS_Assignment_SGMS\obj\Debug\CSS_Assignment_SGMS.Resources.resources
+D:\ASIA PACIFIC UNIVERSITY\Computer System Security\CSS_Assignment_SGMS\CSS_Assignment_SGMS\obj\Debug\CSS_Assignment_SGMS.StudentAssesmentForm.resources
+D:\ASIA PACIFIC UNIVERSITY\Computer System Security\CSS_Assignment_SGMS\CSS_Assignment_SGMS\obj\Debug\CSS_Assignment_SGMS.vbproj.GenerateResource.Cache
+D:\ASIA PACIFIC UNIVERSITY\Computer System Security\CSS_Assignment_SGMS\CSS_Assignment_SGMS\obj\Debug\CSS_Assignment_SGMS.exe
+D:\ASIA PACIFIC UNIVERSITY\Computer System Security\CSS_Assignment_SGMS\CSS_Assignment_SGMS\obj\Debug\CSS_Assignment_SGMS.xml
+D:\ASIA PACIFIC UNIVERSITY\Computer System Security\CSS_Assignment_SGMS\CSS_Assignment_SGMS\obj\Debug\CSS_Assignment_SGMS.pdb
+D:\ASIA PACIFIC UNIVERSITY\Computer System Security\CSS_Assignment_SGMS\CSS_Assignment_SGMS\bin\Debug\SGMS.accdb
+D:\ASIA PACIFIC UNIVERSITY\Computer System Security\CSS_Assignment_SGMS\CSS_Assignment_SGMS\obj\Debug\CSS_Assignment_SGMS.vbprojResolveAssemblyReference.cache
+D:\ASIA PACIFIC UNIVERSITY\Computer System Security\CSS_Assignment_SGMS\CSS_Assignment_SGMS\obj\Debug\CSS_Assignment_SGMS.Administrator.resources
